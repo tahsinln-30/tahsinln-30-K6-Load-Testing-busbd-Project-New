@@ -1,0 +1,9 @@
+{
+  "search_success": 0,
+  "search_fail": 1,
+  "seatview_success": 0,
+  "seat_select_success": 0,
+  "seat_select_fail": 0,
+  "book_success": 0,
+  "book_fail": 0
+}
